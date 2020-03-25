@@ -10,7 +10,7 @@ Michael Zamansky's work.
 3. Compile the app: `npx shadow-cljs compile app`
 4. Open `main.cljs` in Emacs
 5. `cider-jack-in-cljs`:
-   * Select `shadow` for `cljs` engine
+   * Select `shadow` for `cljs` REPL
    * Select `:app` as the build
    * Type `y` to start a browser session
    
